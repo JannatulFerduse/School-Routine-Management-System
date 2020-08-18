@@ -1,0 +1,390 @@
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.deps.json
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.runtimeconfig.json
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.runtimeconfig.dev.json
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.dll
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.pdb
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.Views.dll
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.Views.pdb
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.csprojAssemblyReference.cache
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.csproj.CoreCompileInputs.cache
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorAssemblyInfo.cache
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorAssemblyInfo.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.AssemblyInfoInputs.cache
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.AssemblyInfo.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.TagHelpers.input.cache
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.TagHelpers.output.cache
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorCoreGenerate.cache
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorTargetAssemblyInfo.cache
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorTargetAssemblyInfo.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.Views.pdb
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.dll
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.pdb
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.csproj.CopyComplete
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Details.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Create.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Delete.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Details.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Edit.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Index.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Create.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Delete.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Details.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Edit.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Index.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Create.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Delete.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Details.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Edit.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Index.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Create.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Delete.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Details.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Edit.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Index.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Create.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Delete.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Details.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Edit.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Index.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Create.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Delete.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Details.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Edit.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Index.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Create.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Delete.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Details.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Index.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Create.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Delete.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Details.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Edit.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Index.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_StudentLayout.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TeacherLayout.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Create.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Delete.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Details.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Edit.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Index.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Create.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Delete.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Details.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Edit.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\AdminLogin.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Create.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Delete.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Details.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Edit.g.cshtml.cs
+C:\Users\Foysal\source\repos\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.deps.json
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.runtimeconfig.json
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.runtimeconfig.dev.json
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.dll
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.pdb
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.Views.dll
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.Views.pdb
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.csprojAssemblyReference.cache
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.csproj.CoreCompileInputs.cache
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorAssemblyInfo.cache
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorAssemblyInfo.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.AssemblyInfoInputs.cache
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.AssemblyInfo.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.TagHelpers.input.cache
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.TagHelpers.output.cache
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorCoreGenerate.cache
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\AdminLogin.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_StudentLayout.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TeacherLayout.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorTargetAssemblyInfo.cache
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorTargetAssemblyInfo.cs
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.Views.pdb
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.dll
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.pdb
+C:\Users\SHUVO\Desktop\shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.csproj.CopyComplete
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.deps.json
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.runtimeconfig.json
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.runtimeconfig.dev.json
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.dll
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.pdb
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.Views.dll
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.Views.pdb
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.csprojAssemblyReference.cache
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.csproj.CoreCompileInputs.cache
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorAssemblyInfo.cache
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorAssemblyInfo.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.AssemblyInfoInputs.cache
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.AssemblyInfo.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.TagHelpers.input.cache
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.TagHelpers.output.cache
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorCoreGenerate.cache
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\AdminLogin.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_StudentLayout.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TeacherLayout.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorTargetAssemblyInfo.cache
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorTargetAssemblyInfo.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.Views.pdb
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.dll
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.pdb
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.csproj.CopyComplete
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Create.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Delete.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Details.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Edit.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Index.g.cshtml.cs
+C:\Users\SHUVO\Desktop\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Result.g.cshtml.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.deps.json
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.runtimeconfig.json
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.runtimeconfig.dev.json
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.dll
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.pdb
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.Views.dll
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\bin\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.Views.pdb
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.csprojAssemblyReference.cache
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorAssemblyInfo.cache
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorAssemblyInfo.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.AssemblyInfoInputs.cache
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.AssemblyInfo.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.TagHelpers.input.cache
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.TagHelpers.output.cache
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorCoreGenerate.cache
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Details.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Create.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Delete.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Details.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Edit.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\BloodGroup\Index.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Create.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Delete.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Details.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Edit.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Class\Index.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Create.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Delete.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Details.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Edit.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Exam\Index.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Create.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Delete.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Details.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Edit.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Gender\Index.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\AdminLogin.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Create.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Delete.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Details.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Edit.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Create.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Delete.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Details.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Edit.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Medium\Index.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Create.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Delete.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Details.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Edit.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Religion\Index.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Create.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Delete.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Details.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Edit.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Section\Index.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_StudentLayout.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TeacherLayout.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Create.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Delete.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Details.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Student\Index.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Create.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Delete.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Details.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Edit.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Subject\Index.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Create.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Delete.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Details.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Edit.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Index.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Result.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorTargetAssemblyInfo.cache
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.RazorTargetAssemblyInfo.cs
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.Views.pdb
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.dll
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.pdb
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.csproj.CopyComplete
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.csproj.CoreCompileInputs.cache
+F:\Project\update shafi\update shafi\ShafiuddinSarkariSchool\ShafiuddinSarkariSchool\obj\Debug\netcoreapp2.1\ShafiuddinSarkariSchool.genruntimeconfig.cache

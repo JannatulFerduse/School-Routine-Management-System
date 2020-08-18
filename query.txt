@@ -1,0 +1,132 @@
+
+create table tblLogins
+(
+Id int identity primary key,
+ UserName varchar(50) not null,
+ UserType varchar(50) not null,
+ [Password] varchar(50) not null,
+
+
+)
+
+create table tblMedium
+(
+ MediumId int identity primary key,
+ Name varchar(50) not null
+
+)
+create table tblSection
+(
+ SectionId int identity primary key,
+ Name varchar(50) not null
+
+)
+
+create table tblClass
+(
+ ClassId int identity primary key,
+ Name varchar(50) not null
+
+)
+
+create table tblGender
+(
+ GenderId int identity primary key,
+ Name varchar(50) not null
+
+)
+create table tblBloodGroup
+(
+ BloodGroupId int identity primary key,
+ Name varchar(50) not null
+
+)
+create table tblReligion
+(
+ ReligionId int identity primary key,
+ Name varchar(50) not null
+
+)
+create table tblSubject
+(
+ SubjectId int identity primary key,
+ Name varchar(50) not null
+
+)
+
+
+
+create table tblStudent
+(
+ StudentId int identity primary key,
+ MediumId int,
+ ClassId int,
+ RollNo int,
+ SectionId int,
+ AdmissionDate datetime,
+ Name varchar(50) not null,
+ [Password] varchar(50) not null,
+ ConfirmPassword varchar(50) not null,
+ FathersName varchar(50) not null,
+ MothersName varchar(50) not null,
+ DateOfBirth date not null,
+ GenderId int,
+ [Address] varchar(200) not null,
+ Nationality varchar(50) not null,
+ BloodGroupId int,
+ ReligionId int,
+ ParentsCell varchar(50) not null,
+ foreign key(MediumId) references tblMedium(MediumId),
+ foreign key(ClassId) references tblClass(ClassId),
+
+ foreign key(GenderId) references tblGender(GenderId),
+ foreign key(BloodGroupId) references tblBloodGroup(BloodGroupId),
+ foreign key(ReligionId) references tblReligion( ReligionId),
+ foreign key(SectionId) references tblSection(SectionId)
+
+
+
+)
+
+
+create table tblAdmin
+(
+AdminId int identity primary key,
+Name varchar(200) not null,
+ExamDate date not null,
+MarksSubmitDate date not null,
+ResultPublishDate date not null,
+
+
+)
+create table tblExam
+(
+ExamId int identity primary key,
+Name varchar(200) not null,
+
+
+
+)
+
+create table tblTeacher
+(
+ TeacherId int identity primary key,
+ Name varchar(50) not null,
+
+ ClassId int,
+ SectionId int,
+ StudentId int,
+ ExamId int,
+ Bangla decimal,
+ English decimal,
+ Math decimal,
+ Religion decimal,
+ SocialScience decimal,
+ Science decimal,
+ TotalMarks decimal,
+
+ foreign key(ClassId) references tblClass(ClassId),
+ foreign key(SectionId) references tblSection(SectionId),
+ foreign key(StudentId) references tblStudent(StudentId),
+ foreign key(ExamId) references tblExam(ExamId)
+)

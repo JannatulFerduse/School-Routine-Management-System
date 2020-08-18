@@ -1,0 +1,132 @@
+﻿@model IEnumerable<ShafiuddinSarkariSchool.Models.tblStudent>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RollNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AdmissionDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ConfirmPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FathersName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MothersName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateOfBirth)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nationality)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ParentsCell)
+            </th>
+            <th>
+                BloodGroup
+            </th>
+            <th>
+                Class
+            </th>
+            <th>
+                Gender
+            </th>
+            <th>
+                Medium
+            </th>
+            <th>
+                Religion
+            </th>
+            <th>
+                Section
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RollNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AdmissionDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ConfirmPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FathersName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MothersName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfBirth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nationality)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ParentsCell)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tblBloodGroup.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tblClass.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tblGender.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tblMedium.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tblReligion.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tblSection.Name)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.StudentId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.StudentId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.StudentId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

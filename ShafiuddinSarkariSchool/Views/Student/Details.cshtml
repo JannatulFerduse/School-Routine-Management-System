@@ -1,0 +1,121 @@
+﻿@model ShafiuddinSarkariSchool.Models.tblStudent
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>tblStudent</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.RollNo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.RollNo)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AdmissionDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AdmissionDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ConfirmPassword)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ConfirmPassword)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.FathersName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FathersName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.MothersName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.MothersName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DateOfBirth)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DateOfBirth)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Nationality)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nationality)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ParentsCell)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ParentsCell)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.tblBloodGroup)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.tblBloodGroup.BloodGroupId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.tblClass)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.tblClass.ClassId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.tblGender)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.tblGender.GenderId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.tblMedium)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.tblMedium.MediumId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.tblReligion)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.tblReligion.ReligionId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.tblSection)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.tblSection.SectionId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.StudentId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

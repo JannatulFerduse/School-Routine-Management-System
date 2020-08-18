@@ -1,0 +1,109 @@
+﻿@model tblLogin
+@{
+    ViewData["Title"] = "AdminLogin";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+
+
+
+
+
+
+
+
+@using (Html.BeginForm("AdminLogin", "Login", FormMethod.Post))
+{
+    @*<div class="row">
+            <div class="col-md-4">
+                <form method="post" asp-controller="Logins" asp-action="AdminLogin">
+                    <div asp-validation-summary="All" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="UserName" class="control-label"></label>
+                        <input asp-for="UserName" class="form-control" />
+                        <span asp-validation-for="UserName" class="text-danger"></span>
+                    </div>
+                    <div>
+                        <label asp-for="Password" class="control-label"></label>
+                        <input asp-for="Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <br />
+                    <div class="form-group">
+                        <label asp-for="UserType" class="control-label">User Type</label>
+                        <select asp-for="UserType" class="form-control">
+                            <option value="">Select one</option>
+                            <option value="Admin">Admin</option>
+                            <option value="Teacher">Teacher</option>
+                            <option value="Student">Student</option>
+                        </select>
+
+                    </div>
+
+                    <div>
+                        <input type="submit" value="Login" class="btn btn-default" />
+                    </div>
+
+                </form>
+            </div>
+        </div>*@
+
+
+    <div class="main">
+        <h1>Login Form</h1>
+        <div class="main-w3lsrow">
+            <!-- login form -->
+            <div class="login-form login-form-left">
+                <div class="agile-row">
+                    <div class="head">
+                        <h2>Login to your site</h2>
+                        <span class="fa fa-lock"></span>
+                    </div>
+                    <div class="clear"></div>
+                    <div class="login-agileits-top">
+                        <form method="post" asp-controller="Logins" asp-action="AdminLogin">
+                            <div asp-validation-summary="All" class="text-danger"></div>
+                            <label asp-for="UserName" class="control-label"></label>
+                            <input asp-for="UserName" class="form-control" />
+                            <span asp-validation-for="UserName" class="text-danger"></span>
+
+
+                            <label asp-for="Password" class="control-label"></label>
+                            <input asp-for="Password" class="form-control" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+
+                            <label asp-for="UserType" class="control-label">User Type</label>
+                            <select asp-for="UserType" class="form-control">
+                                <option value="">Select one</option>
+                                <option value="Admin">Admin</option>
+                                <option value="Teacher">Teacher</option>
+                                <option value="Student">Student</option>
+                            </select>
+                            <input type="submit" value="Login Now">
+                        </form>
+                    </div>
+                    <div class="login-agileits-bottom">
+                        <h6><a href="#">Forgot your password?</a></h6>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- //login form -->
+
+
+
+    <!-- social icons -->
+
+
+
+
+
+
+
+}
+@if (ViewBag.msg != null)
+{
+    <label>@ViewBag.msg</label>
+}
